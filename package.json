@@ -1,0 +1,22 @@
+{
+  "name": "homework-tiga",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Convert.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/affyalqorna10/homework-tiga-js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/affyalqorna10/homework-tiga-js/issues"
+  },
+  "homepage": "https://github.com/affyalqorna10/homework-tiga-js#readme",
+  "devDependencies": {
+    "jest": "^27.0.6"
+  }
+}
